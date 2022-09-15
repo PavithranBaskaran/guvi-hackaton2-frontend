@@ -98,6 +98,15 @@ function Login() {
             </div>
           </form>
         </div>
+                <div>
+                  For Testing:<br/>
+                  Role: User<br/>
+                  username: pavi<br/>
+                  password: 12344<br/>
+                    Role: Admin<br/>
+                  username: test<br/>
+                  password: 123<br/>
+                  </div>
       </div>
     </div>
   );
